@@ -219,15 +219,15 @@ end)
 Tab3:Seperator("📦 = Hit Box = 📦")
 
 Tab3:Button("🗡️ • Giant Hit Box",function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/z8yh8j6Q"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ee5MvwNp"))()
 end)
 
 Tab3:Button("🗡️ • Normal Hit Box",function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/BAsC4M36"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/atT6Brbb"))()
 end)
 
 Tab3:Button("🗡️ • Small Hit Box( Recommended )",function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/QwGYx83m"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/4RSBPnFf"))()
 end)
 
 Tab3:Line()
