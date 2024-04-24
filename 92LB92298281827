@@ -293,8 +293,6 @@ Tab5:Label("Credits To Gb")
 
 Tab5:Line()
 
-getgenv().whscript = "Harlen Hub | Lucky Block"         --Change to the name of your script
-getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1232138182674350151/3VkPVg5S9C1tWdjFLSocllISW6dHP75lWPXndD_Ycb5oe7M4THmD9wg743j6ap4MoGER"  --Put your Webhook Url here
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/venoxhh/robloxuniversal/main/webhook_execution")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Fe800Vdoa/23WBHK917392826937281/main/23LB-ADM918229281")))()
 --[[
 ]]
