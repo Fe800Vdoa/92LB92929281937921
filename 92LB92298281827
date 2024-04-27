@@ -9,7 +9,7 @@ local Library = DarkraiX:Window("Harlen Hub","","",Enum.KeyCode.RightControl);
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/ButtonIJheushauuaya7Ha7auuahd-s/main/ButtonIahhwuaha7wg7wyee8"))()
 
 --- Tabs
-TabD = Library:Tab("🚪┃Discord")
+TabD = Library:Tab("📋┃Discord")
 Tab1 = Library:Tab("🎁┃Lucky Block")
 Tab2 = Library:Tab("📍┃Teleport")
 Tab3 = Library:Tab("📂┃Scripts")
